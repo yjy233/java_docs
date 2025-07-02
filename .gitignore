@@ -1,1 +1,4 @@
 build/
+*.jar
+*.class
+.gradle/
